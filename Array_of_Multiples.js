@@ -22,4 +22,3 @@ function arrayMultiplos(num, long) { //Se define la función que tiene los pará
   }
 
   console.log(arrayMultiplos(2, 10)); 
-  console.log(arrayMultiplos(17, 6)); 

@@ -9,8 +9,8 @@
  */
 
 const member1 = ["Esperanza", "Franco", "Nia"];
- const member2 = ["Phoebe", "Ross", "Chandler", "Joey", "Monica", "Rachel"];
- const member3 = ["Harry", "Ron", "Hermione"];
+const member2 = ["Phoebe", "Ross", "Chandler", "Joey", "Monica", "Rachel"];
+const member3 = ["Harry", "Ron", "Hermione"];
 
  function secretName(arr) {
     let res = [];
@@ -21,4 +21,3 @@ const member1 = ["Esperanza", "Franco", "Nia"];
 
  console.log(secretName(member1));
  console.log(secretName(member2));
- secretName(member3);

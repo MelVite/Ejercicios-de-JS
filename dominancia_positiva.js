@@ -1,3 +1,4 @@
+
 /**
  * Dominancia positiva en Array
  * Escribe una función para determinar si un array es positivamente dominante. Un array es positivamente dominante cuando la mayoría de sus elementos son positivos.
@@ -31,3 +32,4 @@ function positiveDom(arr) {
 }
 
 console.log(positiveDom(arreglo))
+

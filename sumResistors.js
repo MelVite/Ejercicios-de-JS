@@ -55,4 +55,3 @@ function sumResistance2(arr) {
 }
 console.log(sumResistance2(res1) + " ohms");
 console.log(sumResistance2(res2) + " ohms");
-console.log(sumResistance2(res3) + " ohms");
